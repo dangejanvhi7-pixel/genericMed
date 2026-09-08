@@ -1,0 +1,6 @@
+{
+  "name": "genericMed",
+  "description": "Online generic medicine marketplace mobile app comparing medicine prices to present the lowest available price for purchase, with feedback-based rankings and prescription matching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
